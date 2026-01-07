@@ -1,0 +1,8 @@
+{
+  "name": "Luminal Digital Consulting",
+  "description": "A high-end, modern business website for a digital and consulting services firm featuring a Gemini-powered AI advisor, case studies, and conversion-focused design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
